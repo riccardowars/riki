@@ -1,3 +1,6 @@
 public class test{
-	public test (){}
+	private int x;
+	public test (){
+		this.x=0;
+	}
 }
